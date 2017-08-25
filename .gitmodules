@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/GestureRecognizer"]
+	path = Assets/Plugins/GestureRecognizer
+	url = git@github.com:AlicanHasirci/GestureRecognizer.git
